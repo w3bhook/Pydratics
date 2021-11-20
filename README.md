@@ -16,8 +16,9 @@
 	1. Download the github repository <code>git clone https://github.com/DuckyPL/Pydratics.git</code><br>
 	2. Enter the folder <code>cd Pydratics</code><br>
 	3. Download the requirements <code>python3 -m pip install -r requirements.txt</code><br>
-	5. Run main.py <code>python3 main.py < quadratics equation (x^2+10x+9) ></code><br>
-	6. A new window should open up with your graph solved, and the y=0 quadratic will be solved in the terminal.<br>
+	5. Run main.py <code>python3 main.py</code><br>
+	6. In the terminal, you should now be prompted to enter the x coordinate values, after that you will be asked to fill in the quadratic expression<br>
+	7. A new window should open up with your graph solved, and the y=0 quadratic will be solved in the terminal.<br>
 </p>
 
 ---
