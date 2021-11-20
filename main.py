@@ -88,7 +88,7 @@ elif counts['-'] == 1:
 		if '-' not in quadratic[1]:
 			print(f"(x{found_fpair[0]})(x+{found_fpair[1]})")
 	elif '-' in quadratic[1]:
-		if '-' in quadratic[0]:
+		if '-' not in quadratic[0]:
 			print(f"(x{found_fpair[0]})(x+{found_fpair[1]})")
 elif counts['-'] == 2:
 	if '-' in found_fpair[0]:
