@@ -8,7 +8,7 @@
 <h2 align="center">About The Project</h2>
 
 <p align="left">
-	Pydratics, originally created by me (Ducky#9982 on discord) is a quadratic equations solver + graph plotter that was originally intented to be ran in python 3.8.x but has support for 3.6.x - 3.10.x. To use powers/indices in the equation please do `number^power` e.g. `2^4` = `16` (this program will work out the equation as if y equaled to 0)
+	Pydratics, originally created by me (w3bhook#9982 on discord) is a quadratic equations solver + graph plotter that was originally intented to be ran in python 3.8.x but has support for 3.6.x - 3.10.x. To use powers/indices in the equation please do `number^power` e.g. `2^4` = `16` (this program will work out the equation as if y equaled to 0)
 </p>
 
 <h2 align="center">Setup :man_technologist:</h2>
